@@ -1,0 +1,13 @@
+Observable trends based on the data
+------------------------------------
+
+
+Charter schools perfomred very good than District schools (based on overall passing rate)
+
+
+
+Schools performance was good when average spending per student was less than $615 (based on average Spending Per Student), otherwise gets worse when avg spending increases per student.
+
+
+
+School performances gets poor when schools size becomes larger than 2000 students (based on number of students per school)
