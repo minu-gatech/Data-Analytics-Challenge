@@ -1,2 +1,2 @@
-# HomeworkAssignments
-Data Science and Analytics Homework
+## Challenge Assignments - Data Science and Analytics
+
